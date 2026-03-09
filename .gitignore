@@ -1,0 +1,18 @@
+# Private env — never commit credentials
+.env.private
+
+# Dependency lock / platform-specific requirements
+requirements_clean.txt
+requirements_mac.txt
+
+# Python virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# macOS metadata
+.DS_Store
